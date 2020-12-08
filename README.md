@@ -1,3 +1,4 @@
 This repository contains the basic version of the project titled as "Data Driven Learning of Constrained Measurement Matrices for Signal Reconstruction". The python file Model_recon.py implements the bluerprint of the DNN architecture for creating measurements and reconstruction. TCI_Con_Base.py runs the training and testing phase of the proposed data driven learning architecture for image reconstruction. We have used the DNN architecture of the paper titled as  "Joint Learning of Measurement Matrix and Signal Reconstruction via Deep Learning". https://ieeexplore.ieee.org/abstract/document/9050520     
 Gray scale matlab files of CIFAR-10 data are avaiable on the following link: https://drive.google.com/drive/folders/1c8mJnYhPBXIcPYJ-DZ0jE9eR5Tpiz6Zh?usp=sharing
+N.B: This work is currently under review as the full version will be published after the final acceptance. 
 
